@@ -1,3 +1,1 @@
-# WNOC
-
-Wireless Network Operations Centre
+Main entry point for explaining the project.
